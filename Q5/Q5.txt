@@ -1,0 +1,16 @@
+\documentclass[a4paper, 12pt]{article}
+\usepackage[UTF8]{ctex}
+\begin{document}
+  \title{使用LaTeX生成表格}
+  \author{Siri Pan}
+  \date{\today}
+  \maketitle
+ \section{生成表格}
+ \begin{tabular}{|l|l|l|l|}
+  \hline /  & Normal & Abnormal & Total \\
+  \hline Sick & 20 & 180  & 200 \\
+  \hline Healthy & 780 & 20 & 800 \\
+\hline
+  \end{tabular}\\
+这其实是2025全国高考新I卷的独立性检验答题，最终的答案让许多人不敢落笔。\\
+  \end{document}
