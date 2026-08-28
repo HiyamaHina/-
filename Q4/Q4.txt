@@ -1,0 +1,17 @@
+\documentclass[a4paper, 12pt]{article}
+\usepackage[UTF8]{ctex}
+\begin{document}
+  \title{使用LaTeX生成数学公式}
+  \author{Siri Pan}
+  \date{\today}
+  \maketitle
+
+  \section{一些数学公式}
+海伦公式：\\
+$$p=\frac{a+b+c}{2}$$,$$S=\sqrt{p(p-a)(p-b)(p-c)}$$\\
+一些不定积分公式：\\
+$$\int 2xdx=x^2+c$$，$$\int 1dx=x+c$$\\
+高斯求和：\\
+$$\sum_{x=1}^n x=\frac{n(1+n)}{2}$$\\
+ok呀也是测试成功了。
+  \end{document}
