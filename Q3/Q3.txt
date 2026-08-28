@@ -1,0 +1,16 @@
+\documentclass[a4paper, 12pt]{article}
+\begin{document}
+  \title{TITLE}
+  \author{Siri Pan}
+  \date{\today}
+  \maketitle
+
+normal size words {\tiny tiny words} \\
+{\scriptsize scriptsize words}\\
+{\footnotesize footnotesize words}\\
+ {\small small words}\\
+ {\large large words}\\
+{\Large Large words} \\
+{\LARGE LARGE words}\\ 
+{\huge huge words}\\
+\end{document}
