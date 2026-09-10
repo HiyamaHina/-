@@ -1,0 +1,2 @@
+[console_scripts]
+sdt-greet = mypkg.cli:main

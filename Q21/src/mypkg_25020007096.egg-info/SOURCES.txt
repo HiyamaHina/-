@@ -1,0 +1,8 @@
+pyproject.toml
+src/mypkg/__init__.py
+src/mypkg/cli.py
+src/mypkg_25020007096.egg-info/PKG-INFO
+src/mypkg_25020007096.egg-info/SOURCES.txt
+src/mypkg_25020007096.egg-info/dependency_links.txt
+src/mypkg_25020007096.egg-info/entry_points.txt
+src/mypkg_25020007096.egg-info/top_level.txt
